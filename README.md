@@ -47,79 +47,13 @@ I’m also comfortable with backend fundamentals using **Node.js, Express.js, an
 - Perform **CRUD Operations**
 - Handle basic auth & secure routing (JWT fundamentals)
 
----
-
-## 🌟 Featured Projects
-
-### 1) SkillSwap — Local Skill Exchange Platform
-A platform where users can **offer, learn, and trade skills locally**. Users can browse skills, view details, and book sessions with skill providers.
-
-**Live Demo:** https://skillswap-4d128.web.app/  
-**GitHub Repo:** https://github.com/nazmulshishir01/skillswap
-
-**Key Features**
-- Firebase Authentication (Email/Password + Google OAuth)
-- Skill listings & details with pricing, ratings, availability
-- Session booking form
-- Profile management
-- Responsive UI + smooth animations (AOS, Swiper)
-- Password reset + toast notifications
-
-**Tech Used:** React, React Router, Tailwind CSS, Firebase, AOS, Swiper
-
----
-
-### 2) ScholarStream — Scholarship Management Platform (Full-Stack MERN)
-A full-stack MERN application connecting students with scholarship opportunities worldwide. Universities and organizations can post scholarships, and students can search, browse, and apply with payment.
-
-**Live Site:** https://scholarstream-project.web.app  
-**Server API:** https://scholarstream-server-mu.vercel.app  
-**GitHub Repo:** https://github.com/nazmulshishir01/scholarstream-client
-
-**Admin Login (Demo)**
-- Email: admin@scholarstream.com  
-- Password: Admin@123
-
-**Key Features**
-- Role-based system: Student / Moderator / Admin
-- Scholarship search, filter, sort, pagination (server-side)
-- Apply with secure payment (Stripe)
-- JWT protected routes
-- Dashboard with analytics & charts
-- Review and moderation system
-- Animated UI with Framer Motion
-
-**Tech Used:** React, Tailwind, DaisyUI, Firebase, Node.js, Express.js, MongoDB, JWT, Stripe, Vercel
-
----
-
-### 3) HomeHero — Local Household Service Finder
-A modern web application that connects users with trusted local service providers. Browse, book, and rate services from plumbers, electricians, cleaners, and more.
-
-**Live Site:** https://homehero-bd.web.app  
-**GitHub Repo:** https://github.com/nazmulshishir01/homehero-client
-
-**Test Credentials**
-- Email: nazmulshishir28@gmail.com  
-- Password: Admin@123
-
-**Key Features**
-- Firebase Authentication + Google OAuth
-- Service browsing/search with advanced filtering
-- Booking system with restrictions (users can’t book their own service)
-- Provider service management (full CRUD)
-- Rating & review system
-- Dark/Light theme toggle with localStorage
-- Fully responsive UI
-
-**Tech Used:** React, Tailwind, Firebase, Node.js, Express.js, MongoDB
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nazmulshishir01&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulshishir01&layout=compact&theme=transparent" />
+  <img height="160" src="https://nazmul-github-stats.vercel.app/api?username=nazmulshishir01&show_icons=true&hide_border=true&bg_color=00000000" />
+  <img height="160" src="https://nazmul-github-stats.vercel.app/api/top-langs/?username=nazmulshishir01&layout=compact&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
