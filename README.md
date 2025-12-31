@@ -4,7 +4,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nazmul%20Shishir&fontAlign=50&fontAlignY=40&fontSize=52&color=0:0ea5e9,100:22c55e&desc=Frontend%20Web%20Developer%20%7C%20React%20%26%20Next.js&descAlign=50&descAlignY=62" />
+<img src="https://i.ibb.co.com/gLzStjbZ/Red-and-White-Clean-Gardener-You-Tube-Banner.png" alt="Red-and-White-Clean-Gardener-You-Tube-Banner" border="0" />
 </p>
 
 <h2 align="center">Nazmul Shishir · he/him</h2>
