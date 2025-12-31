@@ -15,15 +15,13 @@
 <p align="center">
   📍 Upstal, Mirpur DOHS (UTC +06:00) •
   📩 <a href="mailto:nazmulshishir28@gmail.com">nazmulshishir28@gmail.com</a> •
-  📞 +8801XXXXXXXXX (replace with your number)
+  📞 +8801937921124
 </p>
 
 <p align="center">
   <a href="https://github.com/nazmulshishir01" target="_blank">GitHub</a> •
   <a href="https://www.linkedin.com/in/nazmul-shishir" target="_blank">LinkedIn</a> •
-  <a href="https://upstal.com/" target="_blank">Website</a> •
-  <a href="https://nazmulshishir.me" target="_blank">Portfolio</a> •
-  <a href="https://twitter.com/nazmulshishir" target="_blank">Twitter/X</a>
+
 </p>
 
 ---
