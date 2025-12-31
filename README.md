@@ -1,59 +1,130 @@
-<h1 align="center">Hi, I'm Nazmul Shishir 👋</h1>
+<!-- ========================= -->
+<!--   Nazmul Shishir README   -->
+<!-- ========================= -->
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nazmul%20Shishir&fontAlign=50&fontAlignY=40&fontSize=52&color=0:0ea5e9,100:22c55e&desc=Frontend%20Web%20Developer%20%7C%20React%20%26%20Next.js&descAlign=50&descAlignY=62" />
+</p>
+
+<h2 align="center">Nazmul Shishir · he/him</h2>
 <p align="center">
   Frontend Web Developer • React & Next.js • Clean, Responsive UI
 </p>
 
 <p align="center">
+  📍 Upstal, Mirpur DOHS (UTC +06:00) •
+  📩 <a href="mailto:nazmulshishir28@gmail.com">nazmulshishir28@gmail.com</a> •
+  📞 +8801XXXXXXXXX (replace with your number)
+</p>
+
+<p align="center">
+  <a href="https://github.com/nazmulshishir01" target="_blank">GitHub</a> •
   <a href="https://www.linkedin.com/in/nazmul-shishir" target="_blank">LinkedIn</a> •
-  <a href="mailto:nazmulshishir28@gmail.com" target="_blank">Email</a> •
-  <a href="https://github.com/nazmulshishir01" target="_blank">GitHub</a>
+  <a href="https://upstal.com/" target="_blank">Website</a> •
+  <a href="https://nazmulshishir.me" target="_blank">Portfolio</a> •
+  <a href="https://twitter.com/nazmulshishir" target="_blank">Twitter/X</a>
 </p>
 
 ---
 
-## 🚀 About Me
-I’m a Frontend Web Developer skilled in **HTML, CSS, Tailwind CSS, JavaScript, React, and Next.js**.  
-I enjoy building **clean, responsive, and user-friendly** web applications.  
-I’m also comfortable with backend fundamentals using **Node.js, Express.js, and MongoDB** for building APIs and working with databases.
+## 👋 About Me
+I’m **Nazmul Shishir**, a Frontend Web Developer skilled in **HTML, CSS, Tailwind CSS, JavaScript, React, and Next.js**.  
+I love building **clean, responsive, and user-friendly** web applications.  
+I’m also comfortable with backend fundamentals using **Node.js, Express.js, and MongoDB** for APIs and database operations.
 
 ---
 
-## 🧰 Tech Stack
+## 🔥 Current Activities
+- 🚀 Exploring **Next.js** (routing, SSR/SSG) and modern React patterns
+- ⚡ Improving **performance optimization** and **accessibility**
+- 🧠 Practicing **REST API development** with Node/Express + MongoDB
+- 🛠️ Building and refining real projects to improve UI/UX and code quality
+
+---
+
+## 🧰 Skills
 
 ### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
+</p>
 
 ### 🧠 Backend (MERN Basics)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-### 🔥 Services & Tools
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-
----
-
-## ✅ What I Can Do (Node/Express/MongoDB)
-- Build **server-side logic** using **Node.js + Express.js**
-- Develop **REST APIs**
-- Work with **MongoDB**
-- Perform **CRUD Operations**
-- Handle basic auth & secure routing (JWT fundamentals)
-
+### 🔥 Tools & Services
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## ✅ Backend Capabilities
+- REST API Development using **Express.js**
+- Database operations with **MongoDB**
+- CRUD Operations (Create, Read, Update, Delete)
+- Basic auth flow & secure API routing (JWT fundamentals)
+
+---
+
+## 🌟 Featured Projects (Pin these 3 on your profile)
+> ✅ Make sure these repos are **Pinned** from your GitHub profile:  
+> Profile → “Customize your pins” → select these 3 client-side repos
+
+### 1) SkillSwap — Local Skill Exchange Platform
+**Live Demo:** https://skillswap-4d128.web.app/  
+**GitHub Repo:** https://github.com/nazmulshishir01/skillswap
+
+- Firebase Authentication (Email/Password + Google OAuth)
+- Skill listings, details, profile management
+- Booking system + responsive UI + animations (AOS, Swiper)
+
+**Tech:** React, React Router, Tailwind CSS, Firebase
+
+---
+
+### 2) ScholarStream — Scholarship Management Platform (Full-Stack MERN)
+**Live Site:** https://scholarstream-project.web.app  
+**Server API:** https://scholarstream-server-mu.vercel.app  
+**GitHub Repo:** https://github.com/nazmulshishir01/scholarstream-client
+
+- Role-based system (Student/Moderator/Admin)
+- Search/filter/sort/pagination (server-side)
+- Stripe payment, JWT protected routes, analytics dashboard
+
+**Tech:** React, Tailwind, DaisyUI, Firebase, Node, Express, MongoDB, JWT, Stripe
+
+---
+
+### 3) HomeHero — Local Household Service Finder
+**Live Site:** https://homehero-bd.web.app  
+**GitHub Repo:** https://github.com/nazmulshishir01/homehero-client
+
+- Service browsing + advanced filtering
+- Booking restrictions + provider CRUD management
+- Reviews, theme toggle (dark/light), responsive design
+
+**Tech:** React, Tailwind, Firebase, Node, Express, MongoDB
+
+---
+
+## 📊 GitHub Stats (Contributions • Languages • Streak)
 <p align="center">
-  <img height="160" src="https://nazmul-github-stats.vercel.app/api?username=nazmulshishir01&show_icons=true&hide_border=true&bg_color=00000000" />
-  <img height="160" src="https://nazmul-github-stats.vercel.app/api/top-langs/?username=nazmulshishir01&layout=compact&hide_border=true&bg_color=00000000" />
+  <!-- Contributions / overall stats -->
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmulshishir01&theme=github" />
+</p>
+
+<p align="center">
+  <!-- Streak -->
+  <img height="165" src="https://streak-stats.demolab.com?user=nazmulshishir01&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazmulshishir01&theme=github" />
 </p>
 
 ---
@@ -61,4 +132,5 @@ I’m also comfortable with backend fundamentals using **Node.js, Express.js, an
 ## 🤝 Contact
 - 📩 Email: **nazmulshishir28@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/nazmul-shishir**
+- 🌐 Website: **https://upstal.com/**
 - 🧑‍💻 GitHub: **https://github.com/nazmulshishir01**
