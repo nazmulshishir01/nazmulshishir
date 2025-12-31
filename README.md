@@ -5,7 +5,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nazmul-shishir" target="_blank">LinkedIn</a> •
-  <a href="mailto:nazmulshishir28@gmail.com" target="_blank">Email</a>
+  <a href="mailto:nazmulshishir28@gmail.com" target="_blank">Email</a> •
+  <a href="https://github.com/nazmulshishir01" target="_blank">GitHub</a>
 </p>
 
 ---
@@ -39,11 +40,12 @@ I’m also comfortable with backend fundamentals using **Node.js, Express.js, an
 
 ---
 
-## ✅ Backend Skills
-- REST API Development using **Express.js**
-- Database operations with **MongoDB**
-- CRUD Operations (Create, Read, Update, Delete)
-- Basic authentication flow & secure API routing (JWT fundamentals)
+## ✅ What I Can Do (Node/Express/MongoDB)
+- Build **server-side logic** using **Node.js + Express.js**
+- Develop **REST APIs**
+- Work with **MongoDB**
+- Perform **CRUD Operations**
+- Handle basic auth & secure routing (JWT fundamentals)
 
 ---
 
@@ -68,10 +70,11 @@ A platform where users can **offer, learn, and trade skills locally**. Users can
 ---
 
 ### 2) ScholarStream — Scholarship Management Platform (Full-Stack MERN)
-A full-stack MERN application connecting students with scholarship opportunities. Universities/organizations can post scholarships and students can browse & apply with payment.
+A full-stack MERN application connecting students with scholarship opportunities worldwide. Universities and organizations can post scholarships, and students can search, browse, and apply with payment.
 
 **Live Site:** https://scholarstream-project.web.app  
-**Server API:** https://scholarstream-server-mu.vercel.app
+**Server API:** https://scholarstream-server-mu.vercel.app  
+**GitHub Repo:** https://github.com/nazmulshishir01/scholarstream-client
 
 **Admin Login (Demo)**
 - Email: admin@scholarstream.com  
@@ -82,18 +85,19 @@ A full-stack MERN application connecting students with scholarship opportunities
 - Scholarship search, filter, sort, pagination (server-side)
 - Apply with secure payment (Stripe)
 - JWT protected routes
-- Dashboards with analytics & charts
+- Dashboard with analytics & charts
 - Review and moderation system
-- Animated UI (Framer Motion)
+- Animated UI with Framer Motion
 
 **Tech Used:** React, Tailwind, DaisyUI, Firebase, Node.js, Express.js, MongoDB, JWT, Stripe, Vercel
 
 ---
 
 ### 3) HomeHero — Local Household Service Finder
-A web app that connects users with trusted local service providers (plumber, electrician, cleaner, etc.). Users can browse, book, and review services.
+A modern web application that connects users with trusted local service providers. Browse, book, and rate services from plumbers, electricians, cleaners, and more.
 
 **Live Site:** https://homehero-bd.web.app  
+**GitHub Repo:** https://github.com/nazmulshishir01/homehero-client
 
 **Test Credentials**
 - Email: nazmulshishir28@gmail.com  
@@ -114,8 +118,8 @@ A web app that connects users with trusted local service providers (plumber, ele
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nazmulshishir01&show_icons=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulshishir01&layout=compact&theme=transparent" />
 </p>
 
 ---
@@ -123,3 +127,4 @@ A web app that connects users with trusted local service providers (plumber, ele
 ## 🤝 Contact
 - 📩 Email: **nazmulshishir28@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/nazmul-shishir**
+- 🧑‍💻 GitHub: **https://github.com/nazmulshishir01**
